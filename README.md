@@ -14,3 +14,9 @@ Git, GitHub, repository, clone, commit, push, pull, remote repository, local rep
 3. git add болон git commit ашиглах
 4. Өөрчлөлтүүдийг GitHub руу git push ашиглан илгээх
 5. GitHub дээрх шинэ өөрчлөлтийг git pull ашиглан татах
+
+## 4. Хэрэглэх программ хангамж
+- Git
+- Git Bash
+- GitHub account
+- Интернэт холболт
