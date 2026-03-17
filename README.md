@@ -24,3 +24,9 @@ Git, GitHub, repository, clone, commit, push, pull, remote repository, local rep
 ## Branch дээр хийсэн өөрчлөлт
 
 Энэ хэсгийг feature-readme branch дээр нэмсэн.
+
+## Миний мэдээлэл
+
+Нэр: Э.Энххүслэн
+Анги: 2 дугаар курс
+Мэргэжил: Программ хангамж инженерчлэл 
